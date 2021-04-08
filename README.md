@@ -7,5 +7,5 @@ How To Use
 [-] Silahkan Isi Web Yang Mau Di Scan 
 [+] jika Sudah Klik ctrl+x ~> Save ~> enter
 [+] Untuk Menjalankan Progam
-[-] python2 Symlink.py 
+[-] python2 Symlink.pyc 
 [+] Ketik namalist.txt yang dibuat tadi
